@@ -1,4 +1,4 @@
-#### Played with Contentful Beasty. Their rich text data is like editor.js. I mean json data. Have good support But will take so much time. as for netlify no support for fetch .md files from folders. They are calling it aws lamda. They host their site on aws as far as i figured out. Vercel is perfect for Nextjs not Netlify.
+#### Played with Contentful Beasty. Their rich text data is like editor.js. I mean json data. Have good support But will take so much time. as for netlify no support for fetch .md files from folders. They are calling it functions. They host their site on aws as far as i figured out. Vercel is perfect for Nextjs not Netlify.
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
